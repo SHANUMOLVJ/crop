@@ -5,3 +5,5 @@ fitz
 sklearn
 os
 pickle
+numpy
+scikit-learn
