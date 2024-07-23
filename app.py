@@ -13,7 +13,7 @@ import os
 
 model = RandomForestClassifier()
 model_path = 'crop_recommendation_model.pkl'
-data_path = 'crop_recommendation.csv'
+data_path = ('crop_recommendation.csv')
 joblib.dump(model, 'crop_recommendation_model.pkl')
 # Load the data
 if os.path.exists(data_path):
