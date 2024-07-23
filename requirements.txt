@@ -1,0 +1,7 @@
+streamlit
+pandas
+re
+fitz
+sklearn
+os
+pickle
